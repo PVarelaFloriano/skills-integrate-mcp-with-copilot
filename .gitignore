@@ -25,6 +25,8 @@
 *.log
 *.sql
 *.sqlite
+*.db
+mergington_school.db
 
 # OS generated files #
 ######################
@@ -38,6 +40,8 @@ Thumbs.db
 
 # Python files
 __pycache__
+venv/
+*.pyc
 
 # Env files
 .env
